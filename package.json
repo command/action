@@ -1,0 +1,26 @@
+{
+  "name": "action",
+  "version": "0.0.1",
+  "description": "A JavaScript library for writing business logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/command/action.git"
+  },
+  "keywords": [
+    "action",
+    "business",
+    "logic",
+    "framework",
+    "library"
+  ],
+  "author": "command",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/command/action/issues"
+  },
+  "homepage": "https://github.com/command/action#readme"
+}
